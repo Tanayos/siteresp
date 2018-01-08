@@ -1,0 +1,35 @@
+div.calc {
+    box-shadow: 10px 5px 5px;
+position: absolute;
+/* justify-content: center; */
+text-align: center;
+margin-left: 30%;
+background: #1ace;
+width: 30%;
+height: 700px;
+
+}
+body {
+    background: #e4c257;
+
+}
+#resultat {
+    box-shadow: 2px 3px 20px 14px #15c7ef;
+    background: black;
+    color: white;
+    margin-top: 20px;
+    width: 70%;
+height: 20%;
+font-size: 30px;
+}
+.btn {
+    background: black;
+    color: white;
+    height: 50px;
+    width: 70px;
+    box-shadow: 1px 2px 16px 5px #80969aee;
+}
+.btn:hover {
+    background: #1ace;
+    cursor: pointer;
+}
